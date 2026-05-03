@@ -1,0 +1,39 @@
+symbol,name,headQuarter,dateFirstAdded,cik,founded,ytd
+AAPL,Apple Inc.,"Cupertino, CA",,320193,1976-04-01,42.99992
+ABNB,Airbnb,"San Francisco, CA",,1559720,2008-08-01,68.66902
+ADBE,Adobe Inc.,"San Jose, CA",,796343,1982-12-01,57.22723
+ADSK,Autodesk,"San Rafael, CA",,769397,1982-01-30,10.02701
+AMAT,Applied Materials,"Santa Clara, CA",,6951,1967-11-10,55.46366
+AMD,Advanced Micro Devices Inc.,"Santa Clara, CA",,2488,1969-05-01,82.45861
+AMGN,Amgen,"Thousand Oaks, CA",,318154,1980-04-08,-3.32887
+ATVI,Activision Blizzard,"Santa Monica, CA",,718877,2008-07-10,19.1077
+AVGO,Broadcom Inc.,"San Jose, CA",,1730168,1961-01-01,62.07632
+CDNS,Cadence Design Systems,"San Jose, CA",,813672,1988-01-01,45.60261
+CSCO,Cisco,"San Jose, CA",,858877,1984-12-10,10.57572
+DXCM,DexCom,"San Diego, CA",,1093557,1999-01-01,5.43886
+EA,Electronic Arts,"Redwood City, CA",,712515,1982-05-27,1.01792
+EBAY,eBay,"San Jose, CA",,1065088,1995-09-03,4.03321
+ENPH,Enphase Energy,"Fremont, CA",,1463101,2006-01-01,-46.52797
+FTNT,Fortinet,"Sunnyvale, CA",,1262039,2000-01-01,18.92003
+GILD,Gilead Sciences,"Foster City, CA",,882095,1987-06-22,-5.52758
+GOOG,Alphabet Inc. (Class C),"Mountain View, CA",,1652044,2015-10-02,47.0903
+GOOGL,Alphabet Inc. (Class A),"Mountain View, CA",,1652044,2015-10-02,47.58752
+ILMN,"Illumina, Inc.","San Diego, CA",,1110803,1998-01-01,-6.79544
+INTC,Intel,"Santa Clara, CA",,50863,1968-07-18,31.79948
+INTU,Intuit,"Mountain View, CA",,896878,1983-01-01,29.16305
+ISRG,Intuitive Surgical,"Sunnyvale, CA",,1035267,1995-01-01,16.41757
+KLAC,KLA Corporation,"Milpitas, CA",,319201,1997-01-01,34.49476
+LCID,Lucid Motors,"Newark, CA",,1811210,2007-01-01,3.88979
+LRCX,Lam Research,"Fremont, CA",,707549,1980-01-01,70.25344
+META,Meta Platforms,"Menlo Park, CA",,1326801,2004-01-04,153.77585
+MNST,Monster Beverage,"Corona, CA",,865752,1935-01-01,15.45598
+NFLX,Netflix,"Los Gatos, CA",,1065280,1997-09-29,49.4355
+NVDA,Nvidia,"Santa Clara, CA",,1045810,1993-04-05,217.26511
+PANW,Palo Alto Networks,"Santa Clara, CA",,1327567,2005-01-01,55.46407
+PYPL,PayPal,"San Jose, CA",,1633917,1998-12-01,-13.62296
+QCOM,Qualcomm,"San Diego, CA",,804328,1985-07-01,11.32463
+ROST,Ross Stores,"Dublin, CA",,745732,2050-01-19,-2.0461
+SNPS,Synopsys,"Mountain View, CA",,883241,1986-01-01,38.88889
+WDAY,"Workday, Inc.","Pleasanton, CA",,1327811,2005-03-01,37.90965
+ZM,Zoom Video Communications,"San Jose, CA",,1585521,2011-04-21,3.0003
+ZS,Zscaler,"San Jose, CA",,1713683,2007-01-01,31.89945
